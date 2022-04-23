@@ -1,16 +1,23 @@
-### Hi there 👋
+### 👋 Hi
 
-<!--
-**fang2hou/fang2hou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Zhou Fang.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fang2hou)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently
+- Engineer @ Yahoo Japan Corporation (2022.04 ~ )
+#### Previously
+- Master Student @ Knowledge Acquisition System Laboratory, University of Tsukuba. (2020.04 ~ 2022.03)
+- Bachelor Student @ Intelligent Computer Entertainment Laboratory, Ritsumeikan University (2016.04 ~ 2020.03)
+
+### 😄 My Interests
+I love games, especially factory game, MMORPGs and ARPGs.  
+I am building and maintainig several apps, plugins and libraries using C/C++, Go, Lua, Python, Java.  
+My previous researches focused on developing machine learning algorithms, recommender systems, and graph neural networks.
+
+### 🌱 Currently Learning
+- Product Design UI/UX
+- Java, Kotlin, SpringBoot
+- High Performance Web Server
+- Rust
+- Flutter
