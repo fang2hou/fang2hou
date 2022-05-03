@@ -9,16 +9,16 @@
 
 ### 😄 My Interests
 - :video_game: **I love video games, especially factory games, MMORPGs and ARPGs.**  
-  World of Warcraft, Overwatch, Final Fantasy XIV, Satifactory, Dyson Sphere, Assassin's Creed Valhalla_  
+  World of Warcraft, Overwatch, Final Fantasy XIV, Satifactory, Dyson Sphere, Assassin's Creed Valhalla  
 - :computer: **I am building and maintainig several apps, plugins and libraries using C/C++, Go, Lua, Python and Java.**  
   Although I like the Go most, Python is the most used programming language for me.
 - :bookmark_tabs: **My previous researches focused on developing machine learning algorithms, recommender systems, and graph neural networks.**  
   I am trying to extend machine learning technique in my personal works.
 
 ### 🌱 Currently Learning
-1. Java, Kotlin, SpringBoot
+1. Java, Kotlin, Spring Framework
 2. Rust
 3. Product Design UI/UX
-4. High Performance Web Server
-5. Flutter
+4. Dart, Flutter
+5. High Performance Web Server
 6. Driver Development
