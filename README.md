@@ -16,9 +16,9 @@
   I am trying to extend machine learning technique in my personal works.
 
 ### 🌱 Currently Learning
-1. Java, Kotlin, Spring Framework
-2. Rust
-3. Product Design UI/UX
-4. Dart, Flutter
+1. Rust
+2. Vue 3, Nuxt 3
+3. Smart Contract with Solidity
+4. Product Design UI/UX
 5. High Performance Web Server
 6. Driver Development
