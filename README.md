@@ -1,5 +1,4 @@
 ### 👋 Hi, I am Zhou Fang!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fang2hou)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Currently
 - :man_technologist: Engineer @ Yahoo Japan Corporation (2022.04 ~ )
