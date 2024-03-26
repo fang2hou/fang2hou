@@ -7,8 +7,8 @@
 - 👨🏻‍💻 Software Engineer @ Yahoo Japan Corporation (Apr 2022 ~ Oct 2023)
 
 #### Previously
-- 👨🏻‍🎓 Master Student @ Knowledge Acquisition System Laboratory, University of Tsukuba. (2020.04 ~ 2022.03)
-- 👨🏻‍🎓 Bachelor Student @ Intelligent Computer Entertainment Laboratory, Ritsumeikan University (2016.04 ~ 2020.03)
+- 👨🏻‍🎓 Master Student @ Knowledge Acquisition System Laboratory, University of Tsukuba. (Apr 2020 ~ Mar 2022)
+- 👨🏻‍🎓 Bachelor Student @ Intelligent Computer Entertainment Laboratory, Ritsumeikan University (Apr 2016 ~ Mar 2020)
 
 ### 💖 My Interests
 - :video_game: **I love video games, especially factory games, MMORPGs and ARPGs.**  
