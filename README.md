@@ -1,4 +1,6 @@
 ## 👋🏻 Hi, I am Zhou Fang!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fang2hou&layout=compact&theme=gruvbox)
+![fang2hou's GitHub stats](https://github-readme-stats.vercel.app/api?username=fang2hou&count_private=true&&show_icons=true&theme=gruvbox&hide=issues)
 
 #### Currently
 
