@@ -3,6 +3,8 @@
 A passionate **Full-stack Developer**, Data Scientist, and Machine Learning Engineer.  
 Also a **WoW Addon Creator** and **Neovim Plugin Developer**.
 
+I come from 🇨🇳 Hangzhou, Zhejiang, and I am currently located in 🇯🇵 Warabi, Saitama.
+
 #### Currently
 
 - 👨🏻‍💻 **Full-stack Engineer** @ LY Corporation, *formerly Yahoo Japan Corporation* (Apr 2022 ~ Present)  
