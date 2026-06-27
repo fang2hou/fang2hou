@@ -3,7 +3,7 @@
 A passionate **Full-stack Developer**, Data Scientist, and Machine Learning Engineer.  
 Also a **WoW Addon Creator** and **Neovim Plugin Developer**.
 
-I come from 🇨🇳 Hangzhou, Zhejiang, and I am currently located in 🇯🇵 Warabi, Saitama.
+I split my time between 🇨🇳 Hangzhou, Zhejiang and 🇯🇵 Warabi, Saitama, living and working across both locations.
 
 #### Currently
 
@@ -14,9 +14,7 @@ I come from 🇨🇳 Hangzhou, Zhejiang, and I am currently located in 🇯🇵 
 - 👨🏻‍🎓 Bachelor Student @ Intelligent Computer Entertainment Laboratory, Ritsumeikan University (Apr 2016 ~ Mar 2020)
 
 ### 💖 My Interests
-- :video_game: **I love video games, especially factory games and MMORPGs.**  
-  **World of Warcraft**, Marvel Rivals, Overwatch, Final Fantasy XIV, Satifactory, Dyson Sphere
-- :rocket: **I build and maintain several apps, plugins, and libraries using Lua, Go, Python, TypeScript, Svelte, React, Rust and Java.**  
-  **Go** is my favorite programming language, and **Lua** is my most-used language for side projects.
-- :bookmark_tabs: **My previous research focused on developing machine learning algorithms and transformer-based recommender systems.**  
-  I have designed transformer-based recommender systems to enhance personalization and user engagement while optimizing model performance and scalability.
+- 🤖 **AI Agents & Automation:** Recently, I've been deeply passionate about researching **AI Agents**, focusing on designing robust Agent workflows, optimizing multi-agent orchestration, and implementing techniques for stable, production-ready AI applications.
+- 🚀 **Side Projects & Open Source:** I build and maintain several apps, plugins, and libraries using **Lua, Go, Python, TypeScript, Svelte, React, Rust, and Java**. Go is my favorite programming language, and Lua is my most-used language for side projects.
+- 🎮 **Gaming:** I love video games, especially factory games and MMORPGs. Active in **World of Warcraft**, Marvel Rivals, Overwatch, Final Fantasy XIV, Satisfactory, and Dyson Sphere Program.
+- 📑 **Machine Learning Research:** My previous research focused on developing machine learning algorithms and transformer-based recommender systems to enhance personalization and user engagement while optimizing performance and scalability.
