@@ -7,7 +7,7 @@ I come from 🇨🇳 Hangzhou, Zhejiang, and I am currently located in 🇯🇵 
 
 #### Currently
 
-- 👨🏻‍💻 **Full-stack Engineer** @ LY Corporation, *formerly Yahoo Japan Corporation* (Apr 2022 ~ Present)  
+- 👨🏻‍💻 **Full-stack Engineer** @ LY Corporation, *formerly Yahoo Japan Corporation* (Apr 2022 ~ Jun 2026)  
 
 #### Previously
 - 👨🏻‍🎓 Master Student @ Knowledge Acquisition System Laboratory, University of Tsukuba. (Apr 2020 ~ Mar 2022)
