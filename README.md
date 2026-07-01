@@ -7,7 +7,7 @@ I split my time between 🇨🇳 Hangzhou, Zhejiang and 🇯🇵 Warabi, Saitama
 
 #### Currently
 
-- 👨🏻‍💻 **Engineer** @ Japan Digital Design from MUFG (July 2026 ~ Present)
+- 👨🏻‍💻 **Engineer** @ Japan Digital Design, *from MUFG* (July 2026 ~ Present)
 - 👨🏻‍💻 **Full-stack Engineer** @ LY Corporation, *formerly Yahoo Japan Corporation* (Apr 2022 ~ Jun 2026)  
 
 #### Previously
